@@ -18,7 +18,7 @@ This task provide functionality for virtual user that can buy, sell and reset ac
 
 To run the application:
 
-1. Navigate to webcrypto package and start WebCryptoApplication
+1. Navigate to webcrypto package and start BackendApplication
 
 2. Navigate to frontend package and start the project using `npm`:
 
