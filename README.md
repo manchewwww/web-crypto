@@ -24,4 +24,4 @@ To run the application:
 
 ```VS code terminal
     npm start
-    ```
+```
